@@ -1,0 +1,66 @@
+
+.page-title{
+    box-shadow: 0 10px 15px rgb(156, 156, 156);
+
+}
+.title{
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    font-family: 'Exo 2', sans-serif; 
+  
+}
+.lab4-img{
+    width: 50%;
+    display: block;
+    margin: 50px auto;
+    border-color: #54463d ;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px #8fa09b;
+
+}
+.lab4-img:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+    box-shadow: 0 10px 15px black;
+
+}
+
+div.content{
+    padding: 0;
+}
+.page-title{
+    padding: 15px;
+    text-align: center;
+}
+.button{
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: #8fa09b;
+    border-radius: 10px;
+    font-family: 'Exo 2', sans-serif; 
+    font-size: 20px;
+    margin: 70px auto;
+}
+.button a{
+    text-decoration: none;
+    color: black;
+}
+.button:hover{
+    background-color: #54463d;
+    color: white;
+    transform: scale(1.1);
+    transition: 0.7s;
+    box-shadow: 0 10px 15px rgb(54, 54, 54);
+
+}
+.button:hover a{
+    color: white;    
+    transition: 0.7s;
+
+}
