@@ -1,0 +1,16 @@
+.taskbox{
+    display: flex;
+    flex-direction: column;
+}
+.task_img{
+    display: block;
+    width:200px;
+}
+
+.task{
+    display: flex;
+    width: 60%;
+    margin: 0 auto; 
+    justify-content: space-around;
+    margin: 10px;
+}
